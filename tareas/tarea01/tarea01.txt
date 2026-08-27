@@ -1,0 +1,422 @@
+Script started on 2026-08-27 18:54:58+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="76" LINES="46"]
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /mnt/c/Users/valen/OneDrive/Documents/curso-E520[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/mnt/c/Users/valen/OneDrive/Documents/curso-E520[00m$ pwd
+[?2004l/mnt/c/Users/valen/OneDrive/Documents/curso-E520
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /mnt/c/Users/valen/OneDrive/Documents/curso-E520[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/mnt/c/Users/valen/OneDrive/Documents/curso-E520[00m$ cd / [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K/
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/[00m$ pwd
+[?2004l/
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/[00m$ cd home
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /home[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/home[00m$ pe[Kwd
+[?2004l/home
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /home[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/home[00m$ cd ..
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/[00m$ pwd
+[?2004l/
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/[00m$ cd
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: ~[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m~[00m$ pwd
+[?2004l/home/valen
+[?2004h]0;valen@LAPTOP-5HDSRSPP: ~[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m~[00m$ cd ../..
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/[00m$ pwd
+[?2004l/
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/[00m$ cd
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: ~[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m~[00m$ pwd
+[?2004l/home/valen
+[?2004h]0;valen@LAPTOP-5HDSRSPP: ~[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m~[00m$ cd ../..etc
+[?2004lbash: cd: ../..etc: No such file or directory
+[?2004h]0;valen@LAPTOP-5HDSRSPP: ~[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m~[00m$ pwd
+[?2004l/home/valen
+[?2004h]0;valen@LAPTOP-5HDSRSPP: ~[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m~[00m$ [7mcd /etc[27mcd /etc
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /etc[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/etc[00m$ pwd
+[?2004l/etc
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /etc[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/etc[00m$ [7mwhoami[27mwhoami
+[?2004lvalen
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /etc[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/etc[00m$ [7mcd /home/user/Desktop[27mcd /home/user/Desktop
+[?2004lbash: cd: /home/user/Desktop: No such file or directory
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /etc[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/etc[00m$ pwd
+[?2004l/etc
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /etc[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/etc[00m$ cd/ home[K[K[K[K[Khome/valen/Desktop
+[?2004lbash: cd/home/valen/Desktop: No such file or directory
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /etc[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/etc[00m$ [7mcd /home/valen/Desktop[27mcd /home/valen/Desktop
+[?2004lbash: cd: /home/valen/Desktop: No such file or directory
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /etc[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/etc[00m$ [7mcd home[27mcd home
+[?2004lbash: cd: home: No such file or directory
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /etc[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/etc[00m$ cd
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: ~[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m~[00m$ [7mcd home[27mcd home\[K[K[K[K[K[K[K[K[7mcd /home/user/Desktop[27mcd /home/user/Desktop
+[?2004lbash: cd: /home/user/Desktop: No such file or directory
+[?2004h]0;valen@LAPTOP-5HDSRSPP: ~[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m~[00m$ [7mmkdir /tmp/tutorial[27mmkdir /tmp/tutorial
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: ~[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m~[00m$ [7mcd /tmp/tutorial[27mcd /tmp/tutorial
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir dir1 dir2 dir3[27mmkdir dir1 dir2 dir3
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l[0m[01;34mdir1[0m  [01;34mdir2[0m  [01;34mdir3[0m
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir -p dir4/dir5/dir6[27mmkdir -p dir4/dir5/dir6
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l[0m[01;34mdir1[0m  [01;34mdir2[0m  [01;34mdir3[0m  [01;34mdir4[0m
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcd dir4[27mcd dir4
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial/dir4[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial/dir4[00m$ ls
+[?2004l[0m[01;34mdir5[0m
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial/dir4[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial/dir4[00m$ [7mcd dir5[27mcd dir5
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial/dir4/dir5[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial/dir4/dir5[00m$ ls
+[?2004l[0m[01;34mdir6[0m
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial/dir4/dir5[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial/dir4/dir5[00m$ [7mcd ../..[27mcd ../..
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir another folder[27mmkdir another folder
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l[0m[01;34manother[0m  [01;34mdir1[0m  [01;34mdir2[0m  [01;34mdir3[0m  [01;34mdir4[0m  [01;34mfolder[0m
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir "folder 1"[27mmkdir "folder 1"
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir 'folder 2'[27mmkdir 'folder 2'
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir folder\ 3[27mmkdir folder\ 3
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir "folder 4" "folder 5"[27mmkdir "folder 4" "folder 5"
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir -p "folder 6"/"folder 7"[27mmkdir -p "folder 6"/"folder 7"
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m   [01;34mdir2[0m   [01;34mdir4[0m     [01;34m'folder 1'[0m   [01;34m'folder 3'[0m   [01;34m'folder 5'[0m
+ [01;34mdir1[0m      [01;34mdir3[0m   [01;34mfolder[0m   [01;34m'folder 2'[0m   [01;34m'folder 4'[0m   [01;34m'folder 6'[0m
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mls > output.txt[27mls > output.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcat output.txt[27mcat output.txt
+[?2004lanother
+dir1
+dir2
+dir3
+dir4
+folder
+folder 1
+folder 2
+folder 3
+folder 4
+folder 5
+folder 6
+output.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ cat
+[?2004l^C
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mecho "This is a test"[27mecho "This is a test"
+[?2004lThis is a test
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mecho "This is a test" > test_1.txt[27mecho "This is a test" > test_1.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mecho "This is a second test" > test_2.t[27m[7mx[27m[7mt[27m[A]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ echo "This is a second test" > test_2.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mecho "This is a third test" > test_3.tx[27m[7mt[27m[A]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ echo "This is a third test" > test_3.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ld[Ks
+[?2004l [0m[01;34manother[0m   [01;34mdir3[0m     [01;34m'folder 1'[0m   [01;34m'folder 4'[0m   output.txt   test_3.txt
+ [01;34mdir1[0m      [01;34mdir4[0m     [01;34m'folder 2'[0m   [01;34m'folder 5'[0m   test_1.txt
+ [01;34mdir2[0m      [01;34mfolder[0m   [01;34m'folder 3'[0m   [01;34m'folder 6'[0m   test_2.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcat test_1.txt test_2.txt test_3.txt[27mcat test_1.txt test_2.txt test_3.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcat test_1.txt test_2.txt test_3.txt[27mcat test_1.txt test_2.txt test_3.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcat test_?.txt[27mcat test_?.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcat test_*[27mcat test_*
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcat t* > combined.txt[27mcat t* > combined.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcat combined.txt[27mcat combined.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcat t* >> combined.txt[27mcat t* >> combined.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mecho "I've appended a line!" >> combine[27m[7md[27m[7m.txt[27m[A]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ echo "I've appended a line!" >> combined.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcat combined.txt[27mcat combined.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I've appended a line!
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ cat combined.txtecho "I've appended a line!" >> combined.txt[A]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [17Pcat t* >> combined.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6P[C[C[C[C[C[C[C[C[C[C[C[C[5@t* > [C[C[C[C[C[C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[6@t* >> [C[C[C[C[C[C[C[C[C[C[C[Cecho "I've appended a line!" >> combined.txt[A]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [23Pcat combined.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[7mless combined.txt[27mless combined.txt
+[?2004l[?1049h[22;0;0t[46;1H[?1h=This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I've appended a line!
+[7mcombined.txt (END)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmv combined.txt dir1[27mmv combined.txt dir1
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls dir1
+[?2004lcombined.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmv dir1/* .[27mmv dir1/* .
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmv combined.txt test_* dir3 dir2[27mmv combined.txt test_* dir3 dir2
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m   [01;34mdir2[0m   [01;34mfolder[0m       [01;34m'folder 2'[0m   [01;34m'folder 4'[0m   [01;34m'folder 6'[0m
+ [01;34mdir1[0m      [01;34mdir4[0m   [01;34m'folder 1'[0m   [01;34m'folder 3'[0m   [01;34m'folder 5'[0m   output.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls dier[K[Kr2
+[?2004lcombined.txt  [0m[01;34mdir3[0m  test_1.txt  test_2.txt  test_3.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mls dir4/dir5/dir6[27mls dir4/dir5/dir6
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls[K[K[7mcp dir4/dir5/dir6/combined.txt .[27mcp dir4/dir5/dir6/combined.txt .
+[?2004lcp: cannot stat 'dir4/dir5/dir6/combined.txt': No such file or directory
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mls dir4/dir5/dir6[27mls dir4/dir5/dir6
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m   [01;34mdir2[0m   [01;34mfolder[0m       [01;34m'folder 2'[0m   [01;34m'folder 4'[0m   [01;34m'folder 6'[0m
+ [01;34mdir1[0m      [01;34mdir4[0m   [01;34m'folder 1'[0m   [01;34m'folder 3'[0m   [01;34m'folder 5'[0m   output.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls die[Kr4
+[?2004l[0m[01;34mdir5[0m
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls die[Kr6
+[?2004lls: cannot access 'dir6': No such file or directory
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls dir 5
+[?2004lls: cannot access 'dir': No such file or directory
+ls: cannot access '5': No such file or directory
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls dir5
+[?2004lls: cannot access 'dir5': No such file or directory
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmv dir2/combined.txt dir4/dir5/dir6[27mmv dir2/combined.txt dir4/dir5/dir6
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mls dir2[27mls dir2
+[?2004l[0m[01;34mdir3[0m  test_1.txt  test_2.txt  test_3.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mls dir4/dir5/dir6[27mls dir4/dir5/dir6
+[?2004lcombined.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcp dir4/dir5/dir6/combined.txt .[27mcp dir4/dir5/dir6/combined.txt .
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mls dir4/dir5/dir6[27mls dir4/dir5/dir6
+[?2004lcombined.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m        [01;34mdir2[0m     [01;34m'folder 1'[0m   [01;34m'folder 4'[0m   output.txt
+ combined.txt   [01;34mdir4[0m     [01;34m'folder 2'[0m   [01;34m'folder 5'[0m
+ [01;34mdir1[0m           [01;34mfolder[0m   [01;34m'folder 3'[0m   [01;34m'folder 6'[0m
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcp combined.txt backup_combined.txt[27mcp combined.txt backup_combined.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m               [01;34mdir1[0m   [01;34mfolder[0m       [01;34m'folder 3'[0m   [01;34m'folder 6'[0m
+ backup_combined.txt   [01;34mdir2[0m   [01;34m'folder 1'[0m   [01;34m'folder 4'[0m   output.txt
+ combined.txt          [01;34mdir4[0m   [01;34m'folder 2'[0m   [01;34m'folder 5'[0m
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmv backup_combined.txt combined_backup.[27m[7mt[27m[7mxt[27m[A]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ mv backup_combined.txt combined_backup.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m               [01;34mdir1[0m   [01;34mfolder[0m       [01;34m'folder 3'[0m   [01;34m'folder 6'[0m
+ combined.txt          [01;34mdir2[0m   [01;34m'folder 1'[0m   [01;34m'folder 4'[0m   output.txt
+ combined_backup.txt   [01;34mdir4[0m   [01;34m'folder 2'[0m   [01;34m'folder 5'[0m
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmv "folder 1" folder_1[27mmv "folder 1" folder_1
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmv "folder 2" folder_2[27mmv "folder 2" folder_2
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmv "folder 3" folder_3[27mmv "folder 3" folder_3
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmv "folder 4" folder_4[27mmv "folder 4" folder_4
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmv "folder 5" folder_5[27mmv "folder 5" folder_5
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mmv "folder 6" folder_6[27mmv "folder 6" folder_6
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l[0m[01;34manother[0m              [01;34mdir1[0m  [01;34mfolder[0m    [01;34mfolder_3[0m  [01;34mfolder_6[0m
+combined.txt         [01;34mdir2[0m  [01;34mfolder_1[0m  [01;34mfolder_4[0m  output.txt
+combined_backup.txt  [01;34mdir4[0m  [01;34mfolder_2[0m  [01;34mfolder_5[0m
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mrm dir4/dir5/dir6/combined.txt combined[27m[7m_[27m[7mbackup.txt[27m[A]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ rm dir4/dir5/dir6/combined.txt combined_backup.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mrm folder_*[27mrm folder_*
+[?2004lrm: cannot remove 'folder_1': Is a directory
+rm: cannot remove 'folder_2': Is a directory
+rm: cannot remove 'folder_3': Is a directory
+rm: cannot remove 'folder_4': Is a directory
+rm: cannot remove 'folder_5': Is a directory
+rm: cannot remove 'folder_6': Is a directory
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mrmdir folder_*[27mrmdir folder_*
+[?2004lrmdir: failed to remove 'folder_6': Directory not empty
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mrm -r folder_6[27mrm -r folder_6
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l[0m[01;34manother[0m  combined.txt  [01;34mdir1[0m  [01;34mdir2[0m  [01;34mdir4[0m  [01;34mfolder[0m  output.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mwc -l combined.txt[27mwc -l combined.txt
+[?2004l7 combined.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mls ~ > file_list.txt[27mls ~ > file_list.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mwc -l file_list.txt[27mwc -l file_list.txt
+[?2004l0 file_list.txt
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mrm file_list.txt[27mrm file_list.txt
+[?2004l[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mls ~ | wc -l[27mls ~ | wc -l
+[?2004l0
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mls /etc|wc -l[27mls /etc|wc -l
+[?2004l167
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mls /etc | less[27mls /etc | less
+[?2004l[?1049h[22;0;0t[46;1H[?1h=PackageKit
+X11
+adduser.conf
+alternatives
+apparmor
+apparmor.d
+apport
+apt
+bash.bashrc
+bash_completion
+bash_completion.d
+bindresvport.blacklist
+binfmt.d
+byobu
+ca-certificates
+ca-certificates.conf
+chrony
+cloud
+console-setup
+credstore
+credstore.encrypted
+cron.d
+cron.daily
+cron.hourly
+cron.monthly
+cron.weekly
+cron.yearly
+crontab
+dbus-1
+dconf
+debconf.conf
+debian_version
+default
+deluser.conf
+depmod.d
+dhcp
+dhcpcd.conf
+dpkg
+e2scrub.conf
+environment
+environment.d
+ethertypes
+fonts
+fstab
+fuse.conf
+:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[Kgai.conf
+:[K[K [KESCESC[KOO[KBB[Kglvnd
+:[K[K [KESCESC[KOO[KBB[Kgnutls
+:[K[K [KESCESC[KOO[KBB[Kgprofng.rc
+:[K[K [KESCESC[KOO[KBB[Kgroff
+:[K[K [KESCESC[KOO[KBB[Kgroup
+:[K[K [KESCESC[KOO[KBB[Kgroup-
+:[K[K [KESCESC[KOO[KBB[Kgshadow
+:[K[K [KESCESC[KOO[KAA[K[HMapt
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMapport
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMapparmor.d
+[46;1H[K:[K[K [KESCESC[KOO[KBB[Kgroup
+:[K[K [KESCESC[KOO[KBB[Kgroup-
+:[K[K [KESCESC[KOO[KBB[Kgshadow
+:[K[K [KESCESC[KOO[KBB[Kgshadow-
+:[K[K [KESCESC[KOO[KBB[Kgss
+:[K[K [KESCESC[KOO[KBB[Kgtk-3.0
+:[K[K [KESCESC[KOO[KBB[Khost.conf
+:[K[K [KESCESC[KOO[KBB[Khostname
+:[K[K [KESCESC[KOO[KBB[Khosts
+:[K[K [KESCESC[KOO[KBB[Kinit.d
+:[K[K [KESCESC[KOO[KBB[Kinputrc
+:[K[K [KESCESC[KOO[KBB[Kissue
+:[K[K [KESCESC[KOO[KBB[Kissue.net
+:[K[K [KESCESC[KOO[KBB[Kkernel
+:[K[K [KESCESC[KOO[KBB[Klandscape
+:[K[K [KESCESC[KOO[KBB[Kld.so.cache
+:[K[K [KESCESC[KOO[KBB[Kld.so.conf
+:[K[K [KESCESC[KOO[KBB[Kld.so.conf.d
+:[K[K [KESCESC[KOO[KBB[Kldap
+:[K[K [KESCESC[KOO[KBB[Klegal
+:[K[K [KESCESC[KOO[KBB[Klibaudit.conf
+:[K[K [KESCESC[KOO[KBB[Klocale.conf
+:[K[K [KESCESC[KOO[KBB[Klocale.gen
+:[K[K [KESCESC[KOO[KBB[Klocaltime
+:[K[K [KESCESC[KOO[KBB[Klogcheck
+:[K[K [KESCESC[KOO[KBB[Klogin.defs
+:[K[K [KESCESC[KOO[KBB[Klogrotate.conf
+:[K[K [KESCESC[KOO[KBB[Klogrotate.d
+:[K[K [KESCESC[KOO[KBB[Klsb-release
+:[K[K [KESCESC[KOO[KBB[Kmachine-id
+:[K[K [KESCESC[KOO[KBB[Kmagic
+:[K[K [KESCESC[KOO[KBB[Kmagic.mime
+:[K[K [KESCESC[KOO[KBB[Kmanpath.config
+:[K[K [KESCESC[KOO[KBB[Kmime.types
+:[K[K [KESCESC[KOO[KAA[K[HMe2scrub.conf
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMdpkg
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMdhcpcd.conf
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMdhcp
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMdepmod.d
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMdeluser.conf
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMdefault
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMdebian_version
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMdebconf.conf
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMdconf
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMdbus-1
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMcrontab
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMcron.yearly
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMcron.weekly
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMcron.monthly
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMcron.hourly
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMcron.daily
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMcron.d
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMcredstore.encrypted
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMcredstore
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMconsole-setup
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMcloud
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMchrony
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMca-certificates.conf
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMca-certificates
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMbyobu
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMbinfmt.d
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMbindresvport.blacklist
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMbash_completion.d
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMbash_completion
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMbash.bashrc
+[46;1H[K:[K[K [KESCESC[KOO[KAA[K[HMapt
+[46;1H[K:[K[K [KESCESC[KOO[KBB[Kgshadow
+:[K[K [KESCESC[KOO[KBB[Kgshadow-
+:[K[K [KESCESC[KOO[KBB[Kgss
+:[K[K [KESCESC[KOO[KBB[Kgtk-3.0
+:[K[K [KESCESC[KOO[KBB[Khost.conf
+:[K[K [KESCESC[KOO[KBB[Khostname
+:[K[K [KESCESC[KOO[KBB[Khosts
+:[K[K [KESCESC[KOO[KBB[Kinit.d
+:[K[K [KESCESC[KOO[KBB[Kinputrc
+:[K[K [KESCESC[KOO[KBB[Kissue
+:[K[K [KESCESC[KOO[KBB[Kissue.net
+:[K[K [KESCESC[KOO[KBB[Kkernel
+:[K[K[?1l>[?1049l[23;0;0t[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcat combined.txt | uniq | wc -l[27mcat combined.txt | uniq | wc -l
+[?2004l7
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mcat combined.txt | uniq | less[27mcat combined.txt | uniq | less
+[?2004l[?1049h[22;0;0t[46;1H[?1h=This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I've appended a line!
+[7m(END)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7mman uniq[27mman uniq
+[?2004l[?1049h[22;0;0t[46;1H[?1h=[4mUNIQ[24m(1)                   General Commands Manual                   [4mUNIQ[24m(1)[m
+[m
+[1mNAME[0m[m
+       uniq - Report or omit repeated lines.[m
+[m
+[1mSYNOPSIS[0m[m
+       [1muniq  [22m[[1m-D[22m|[1m--all-repeated[22m]  [[1m--group[22m] [[1m-w[22m|[1m--check-chars[22m] [[1m-c[22m|[1m--count[22m][m
+       [[1m-i[22m|[1m--ignore-case[22m]         [[1m-d[22m|[1m--repeated[22m]         [[1m-s[22m|[1m--skip-chars[22m][m
+       [[1m-f[22m|[1m--skip-fields[22m]  [[1m-u[22m|[1m--unique[22m] [[1m-z[22m|[1m--zero-terminated[22m] [[1m-h[22m|[1m--help[22m][m
+       [[1m-V[22m|[1m--version[22m] [[4mfiles[24m][m
+[m
+[1mDESCRIPTION[0m[m
+       Report or omit repeated lines.[m
+[m
+[1mOPTIONS[0m[m
+       [1m-D[22m, [1m--all-repeated[22m[=[4m<delimit-method>[24m][m
+              print all duplicate lines.  Delimiting  is  done  with  blank[m
+              lines. [default: none][m
+[m
+              [4mPossible[24m [4mvalues:[0m[m
+[m
+                     • none[m
+[m
+                     • prepend[m
+[m
+                     • separate[m
+[m
+       [1m--group[22m[=[4m<group-method>[24m][m
+              show  all  items,  separating groups with an empty line. [de‐[m
+              fault: separate][m
+[m
+              [4mPossible[24m [4mvalues:[0m[m
+[m
+                     • separate[m
+[m
+                     • prepend[m
+[m
+                     • append[m
+[m
+                     • both[m
+[m
+       [1m-w[22m, [1m--check-chars [4m[22m<N>[0m[m
+              compare no more than N characters in lines[m
+[m
+       [1m-c[22m, [1m--count[0m[m
+[7m Manual page uniq(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7msort combined.txt | less[27msort combined.txt | less
+[?2004l[?1049h[22;0;0t[46;1H[?1h=I've appended a line!
+This is a second test
+This is a second test
+This is a test
+This is a test
+This is a third test
+This is a third test
+[7m(END)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ [7msort combined.txt | uniq | wc -l[27msort combined.txt | uniq | wc -l
+[?2004l4
+[?2004h]0;valen@LAPTOP-5HDSRSPP: /tmp/tutorial[01;32mvalen@LAPTOP-5HDSRSPP[00m:[01;34m/tmp/tutorial[00m$ exit
+[?2004lexit
+
+Script done on 2026-08-27 19:24:36+00:00 [COMMAND_EXIT_CODE="0"]
